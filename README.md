@@ -1,1 +1,2 @@
-# Explainable-machine-learning-based-prediction-of-fundamental-frequency-main
+# Machine learning based prediction of fundamental period of Reinforced concrete structures and explainability
+This file contains the major codes for the manuscript entitled "Machine learning based prediction of fundamental period of Reinforced concrete structures and explainability", which was submitted to Construction and Building Materials for peer review. Model evaluation and data analysis is the model architecture, XAI is the code for model interpretation.
